@@ -1,0 +1,4 @@
+lerobot[smolvla]==0.5.1
+numpy>=1.26
+torch>=2.6
+modal>=1.0
